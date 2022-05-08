@@ -96,13 +96,26 @@
     "latex-workshop.latex.autoClean.run": "onBuilt",  // ビルド時に一時ファイル(.auxなど)を削除
     // "latex-workshop.latex.autoBuild.run": "never" // 自動ビルドを無効化
 
-    "cSpell.words": [
+    "cSpell.userWords": [
         "afterindenttrue",
+        "bblencoding",
+        "biber",
         "biblatex",
+        "bibtex",
+        "dvipdf",
+        "dvipdfmx",
+        "fortls",
+        "gfortran",
+        "iwashita",
+        "latexmk",
         "maxbibnames",
+        "nonstopmode",
         "pageranges",
+        "safechars",
         "schapter",
         "slowromancap",
-        "topnum"
+        "synctex",
+        "topnum",
+        "uplatex"
     ]
 }

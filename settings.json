@@ -1,6 +1,7 @@
 {
     "editor.bracketPairColorization.enabled": true,
     "files.autoSave": "onFocusChange",
+    "window.newWindowDimensions": "maximized",
 
     "fortran-ls.executablePath": "/home/iwashita/anaconda3/bin/fortls",
     "fortran-ls.lowercaseIntrinsics": true,
